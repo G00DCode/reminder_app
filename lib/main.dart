@@ -3,7 +3,6 @@ import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:reminder_app/service/notfication_service.dart';
 import 'package:workmanager/workmanager.dart';
 import 'package:timezone/data/latest.dart' as tz;
-import 'package:timezone/timezone.dart' as tz;
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:get/get.dart';
 import 'controller/reminder_controller.dart';
